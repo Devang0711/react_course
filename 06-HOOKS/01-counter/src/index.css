@@ -1,0 +1,10 @@
+/* Example of traditional CSS you *don't* need */
+.container {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #e0f2fe, #bfdbfe);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  font-family: sans-serif;
+}
