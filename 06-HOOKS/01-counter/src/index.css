@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 /* Example of traditional CSS you *don't* need */
 .container {
   min-height: 100vh;
